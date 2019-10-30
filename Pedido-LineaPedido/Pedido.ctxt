@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Pedido
+comment0.text=\r\n\ Modela\ un\ pedido\ realizado\ por\ un\ cliente\ en\ una\ determinada\ fecha\r\n\ El\ pedido\ incluye\ dos\ l\u00EDneas\ de\ pedido\ que\ describen\ a\ cada\ uno\ de\ los\ dos\r\n\ productos\ comprados\ en\ el\ pedido\r\n
+comment1.params=
+comment1.target=Pedido()
+comment1.text=\r\n\ Constructor\ \ \r\n
+numComments=2

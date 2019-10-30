@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=LineaPedido
+comment0.text=\r\n\ \ Describe\ una\ l\u00EDnea\ de\ un\ pedido\r\n\ \ En\ una\ l\u00EDnea\ de\ pedido\ se\ incluye\ un\ producto\r\n\ \ y\ el\ n\u00BA\ de\ unidades\ compradas\ de\ ese\ producto\r\n\ \ \ \r\n
+comment1.params=
+comment1.target=LineaPedido()
+comment1.text=\r\n\ Constructor\ \ \r\n
+numComments=2
