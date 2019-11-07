@@ -1,6 +1,6 @@
 import java.time.LocalDate;
 /**
- *  Representa una fecha 
+ *   
  */
 public class Fecha
 {
